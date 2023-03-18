@@ -1,0 +1,5 @@
+comment This script is from the developer officially.
+comment @Csral
+
+_starthere:
+  verify parsed_config
